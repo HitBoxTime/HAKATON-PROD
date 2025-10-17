@@ -10,9 +10,13 @@ pip install -r requirements.txt
 python app.py
 
 2. Запуск iOS приложения:
+
 Откройте Xcode
+
 Создайте новый проект "Single View App"
+
 Замените содержимое файлов на код из Swift раздела
+
 В Info.plist добавьте:
 
 xml
