@@ -1,5 +1,6 @@
 # HAKATON-PROD
 
+1.
 ЗАПУСК БЭКЭНДА
 
 cd auth-app/backend
@@ -9,7 +10,8 @@ source venv/bin/activate  # Mac/Linux
 pip install -r requirements.txt
 python app.py
 
-2. Запуск iOS приложения:
+2.
+Запуск iOS приложения:
 
 Откройте Xcode
 
